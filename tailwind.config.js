@@ -6,6 +6,7 @@ export default {
 		extend: {},
 		backgroundImage: {
 			stars: "url('stars_background.jpeg')",
+			samuelHead: "url('samuel_head.jpeg')",
 		},
 	},
 	plugins: [],
